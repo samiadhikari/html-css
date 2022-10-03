@@ -1,0 +1,116 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Poppins:wght@400;600&family=Sacramento&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar li{
+    list-style: none; 
+    margin: 0 12px;
+}
+.topleft{
+    width: 50%;
+    padding:12px 0 ;
+
+}
+.topright{
+    width: 50%;
+    height:50vh ;
+
+}
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    font-size: 1.5rem;
+    color: rgb(63, 63, 183);
+}
+.my-2{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    font-size: 2rem;
+    color: rgb(63, 63, 183);
+}
+.my-3{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    font-size: 1.1rem;
+    padding: 4px 36px;
+    text-align: center;
+}
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+.text-blue{
+    color: rgb(63, 63, 183);
+}
+.sam{
+    padding-top: 50px;
+    width: 500px;
+    height: 300px;
+    
+}
+.dumbelling{
+    max-width: 55%;
+    padding-left: 103px;
+}
+.text-center{
+    text-align: center;
+}
+.section2{
+    padding: 17px;
+    height: 500px;
+
+}
+.box{
+    padding: 12px 22px;
+    min-width: 18vw;
+    border: 2px solid black;
+    margin: 12px;
+    text-align: center;
+    border-color: rgb(72, 72, 206);
+    border-radius: 8px;
+}
+.box ul{
+    list-style: none;
+}
+.box ul li{
+    margin: 12px 2px;
+}
+.highlighted{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+.plannedtable{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section3 table{
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 140px 0;
+    border-bottom: 2px solid rgb(63, 63, 183);
+    border-collapse: collapse;
+}
+.section3 table th{
+    width: 12vw;
+    border-bottom: 2px solid rgb(63, 63, 183);
+    padding: 10px 0; 
+}
+.section3 table td{
+    border-bottom: 2px solid rgb(63, 63, 183) ;
+}
+
+.section3{
+    padding: 17px;
+    margin-bottom: 100px;
+}
+.sammy{
+    margin-top: 20px;
+    color:rgb(63, 63, 183);
+}
+.umm{
+    color:rgb(63, 63, 183);
+}
